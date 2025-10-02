@@ -1,6 +1,8 @@
-/* Name: James Nyangi Marwa
+/*
+Name: James Nyangi Marwa
 Reg No.: PA106/G/29045/25
-Description: Program to display data bundles menu and ask user to enter their option*/    
+Description: Program to display data bundles menu and ask user to enter their option
+*/    
 #include <stdio.h>
 
 // main function
